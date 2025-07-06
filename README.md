@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5848e3d9-e73f-4497-908e-f346ba1b49c7)# Radar_Scanner
+# Radar_Scanner
 This Repository contains a port scanner toolthat  i made as my internship in Tamizhan Skills
 
 ⚙️ How It Works
